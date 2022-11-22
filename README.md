@@ -25,8 +25,8 @@
 
 <p align='center'>
    <a href="https://twitter.com/yosoka_codex"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/yosoka_hosting"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/YosokaHost"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/yt_yosokanesia"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/yosokanesiaa"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://wa.me/6285891634201"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBc_3WgZjWOtqdKZQbdkxUl5A31GZ_YC35zQ&usqp=CAU"></a>
 </P>
 </p>
@@ -69,5 +69,3 @@ node main pm2 start main.js
 
 # For Team ( MASTAH TO FROM NEWBIE )
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`4onenoreff`]
-* [`Rizki`]
